@@ -6,7 +6,7 @@ PicFinder is a sleek web application that allows users to **search**, **preview*
 
 ## 🌐 Live Demo
 Check out the live version of the application here:  
-[PicFinder - Photos for Everyone](https://pic-finder-photos-for-everyone.vercel.app/)
+[PicFinder - Photos for Everyone](https://pic-finder-photos-for-everyone-pndzejx5f-vedant-handas-projects.vercel.app/)
 
 ---
 
